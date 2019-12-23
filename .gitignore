@@ -1,0 +1,5 @@
+#ignored
+
+#node modules
+StorePortal/ClientApp/node_modules
+StorePortal/bin/
